@@ -4,6 +4,7 @@
 
   padding: 2rem;
   background: var(--color-footer);
+  margin: 5rem;
 
   /* ff 3.6+ */
   background: -moz-radial-gradient(
